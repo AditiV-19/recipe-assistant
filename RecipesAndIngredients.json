@@ -1,0 +1,312 @@
+[
+{ "name": "Japanese Cuisine - Vegetable Broth Fried Eggs with Mixed Vegetables",
+   "ingredients": ["eggs", "vegetables", "soy sauce", "miso paste", "sesame oil", "mirin"]
+},
+{ "name": "Tofu and Spinach Stir-Fry" ,
+   "ingredients": ["tofu", "spinach", "eggs", "sesame oil"] 
+},
+{ "name": "Miso Soup with Kale Salad" ,
+   "ingredients": ["miso soup", "kale salad", "eggs"]
+},
+{ "name": "Veggie Hashbrown Casserole" ,
+   "ingredients": ["roasted vegetables", "eggs"]
+},
+{ "name": "Katsu Tori" ,
+   "ingredients": ["fried chicken", "veggies", "eggs", "rice vinegar", "soy sauce", "mirin"]
+},
+{ "name": "Sashimi Rolls" ,
+   "ingredients": ["cucumbers", "avocado", "seaweed sheets"]
+},
+{ "name": "Kimchi Stew" ,
+   "ingredients": ["kimchi", "vegetables"]
+},
+{ "name": "Hojiki Noodle Breakfast" ,
+   "ingredients": ["noodles", "eggs", "tofu", "dairy", "seafood", "vegetables"]
+},
+{ "name": "Nabe-Gyoza Roll (Nabe-Gyoza)" ,
+   "ingredients": ["eggplant", "miso soup", "nabe-gyozi roll", "gyoza", "steamed dumplings"]
+},
+{ "name": "Morning Munchies: Veggie-Filled Overnight Oats" ,
+   "ingredients": ["oats", "berries", "chia seeds", "almond milk", "Sweet Potato", "Lettuce", "Kale", "Soy Protein", "Egg"]
+},
+{ "name": "Nori Omelet" ,
+   "ingredients": ["egg", "seaweed", "spinach", "mushrooms", "avocado", "scallions"]
+},
+{ "name": "Hakurei Tofu Egg White Hashbrowns" ,
+   "ingredients": ["egg", "tofu", "hashbrown"]
+},
+{ "name": "Shimeji Mochi (Japanese Chestnut Balls)" ,
+   "ingredients": ["glutinous rice flour", "sugar", "starch"]
+},
+{ "name": "Vegetarian Lentil Stir-Fry (Umi Miso)" ,
+   "ingredients": ["lentils", "vegetables", "soy sauce", "miso paste", "sesame oil"]
+},
+{ "name": "Miso Soup with White Tofu and Vegetables" ,
+   "ingredients": ["tofu (soaked overnight and drained)", "mushrooms", "carrots", "green beans", "white miso paste", "steamed rice", "sesame seeds"]
+},
+{ "name": "Bento Soup" ,
+   "ingredients": ["kombu", "green tea", "carrots", "shiitake mushrooms", "miso", "tamari", "scallions", "spinach"]
+},
+{ "name": "Vegan Luncheon Quinoa Bowl" ,
+   "ingredients": ["quinoa", "sweet potato", "avocado", "tofu", "soy sauce", "tamari", "maple syrup", "fresh herbs"]
+},
+{ "name": "Katsu Curry" ,
+   "ingredients": ["katsu", "rice", "vegetables"]
+},
+{ "name": "Veggie and Potato Curry with Tofu" ,
+   "ingredients": ["spices", "vegetables", "potatoes", "tofu"]
+},
+{ "name": "Curried Veggie Curry Soup with Sweet Potato Noodles" ,
+   "ingredients": ["veggies", "spices", "sweet potato noodles"]
+},
+{ "name": "Tsukemen Kokumi" ,
+   "ingredients": ["ramen noodles", "cheese", "vegetables"]
+},
+{ "name": "Miso Soup Bowl with Avocado and Poached Eggs" ,
+   "ingredients": ["miso soup", "avocado", "poached eggs"]
+},
+{ "name": "Sapporo Pumpkin Spinach Luncheon" ,
+   "ingredients": ["pumpkin leaves", "spinach", "vegetables", "avocado"]
+},
+{ "name": "Japanese Cuisine Cream Cheese Rice Paper Rolls" ,
+   "ingredients": ["cheese rice paper", "chicken", "veggies", "soy sauce", "ginger", "scallions", "sesame oil", "garlic", "sesame seeds"]
+},
+{ "name": "Wagyu Kobe Short Rib Luncheon" ,
+   "ingredients": ["Wagyu beef short ribs", "duck breast", "green beans", "tofu", "yuzu sauce"]
+},
+{ "name": "Japanese Kitchen: Creamy Vegetable Pumpkin Lentil Soup" ,
+   "ingredients": ["pumpkin", "red lentils", "yellow onion", "carrots", "mushrooms", "garlic",  "coconut milk", "vegetable broth", "spinach", "peanuts", "rice"]
+},
+{ "name": "Chirashi Dino - Vegetable Sushi Roll" ,
+   "ingredients": ["vegetables", "seaweed", "avocado"]
+},
+{ "name": "Soupy Veggie Stew" ,
+   "ingredients": ["zucchini", "bell peppers", "carrots", "spinach"]
+},
+{ "name": "Miso Katsu" ,
+   "ingredients": ["miso soup", "tofu", "cabbage"]
+},
+{ "name": "Veggie Tacos" ,
+   "ingredients": ["pork tenderloins", "peaches", "shallots", "miso", "honey soy basting sauce"]
+},
+{ "name": "Vegetable Ginger Miso Soup" ,
+   "ingredients": ["vegetables", "miso paste", "ginger"]
+},
+{ "name": "Coconut Curry Sweet Potato and Eggplant Pasta" ,
+   "ingredients": ["coconut", "sweet potatoes", "eggplants"]
+},
+{ "name": "Vegetable Curry in Tomato Sauce with Tofu and Rice" ,
+   "ingredients": ["tomato", "tofu", "brown rice"]
+},
+{ "name": "Vegetable Katsu Curry" ,
+   "ingredients": ["eggplant", "sweet potato", "flour", "plant milk", "breadcrumbs"]
+},
+{ "name": "Spinach Mushroom Stir-Fry" ,
+   "ingredients": ["spinach", "mushrooms", "garlic", "ginger", "white sauce"]
+},
+{ "name": "Tokyo Katsudu" ,
+   "ingredients": ["pork tenderloin", "breadcrumbs", "flour", "eggs", "pepper"]
+},
+{ "name": "Japanese Cuisine - Vegetable Stew with Soba Noodles and Avocado" ,
+   "ingredients": ["soba noodles", "broth", "vegetables", "shiitake mushrooms", "carrots", "green onions", "avocado"]
+},
+{ "name": "Vegetable Udon Soup - Japanese Fusion" ,
+   "ingredients": ["udon noodles", "vegetables", "soy sauce", "broth", "miso paste"]
+},
+{ "name": "Vegetable Curry Noodle" ,
+   "ingredients": ["noodles", "kale", "spinach", "carrots", "mushrooms", "soy sauce", "curry powder"]
+},
+{ "name": "Baekgang Boi Kkot (BBQ Roasted Bean Sprouts & Scallions)" ,
+   "ingredients": ["bean sprouts", "scallions", "avocado"]
+},
+{ "name": "Vegetable Cucumber Kimchi Fried Rice Bowl" ,
+   "ingredients": ["rice", "vegetables", "kimchi"]
+},
+{ "name": "Veggie Korean Cuisine Bowl" ,
+   "ingredients": ["quinoa", "kimchi", "tofu", "kale", "cucumber", "sushi rice", "avocado", "tamari sauce"]
+},
+{ "name": "Veggie Breakfast Cuizine" ,
+   "ingredients": ["mushroom", "egg",  "veggies", "cheese"]
+},
+{ "name": "Sweet Potato and Egg Fried Rice (Sukguk Yeongyul Pajeon)" ,
+   "ingredients": ["sweet potatoes", "eggs", "rice"]
+},
+{ "name": "Miso Soup with Poached Egg and Vegetables" ,
+   "ingredients": ["egg", "vegetables", "fresh herbs"]
+},
+{ "name": "Sujeong's Korean Cuisine: Kimchi Fried Rice" ,
+   "ingredients": ["kimchi", "rice", "eggs"]
+},
+{ "name": "Gwajeol (Spicy Grilled Tofu Skewers)" ,
+   "ingredients": ["tofu", "garlic-lime sauce", "olive oil", "coconut cream"]
+},
+{ "name": "Sauce Garden Korean Cuisine Cuisine: Vegetable Curry Pansit" ,
+   "ingredients": ["eggs", "vegetables", "soy sauce", "garlic", "ginger", "sesame oil", "spices"]
+},
+{ "name": "Vegetable Frittata" ,
+   "ingredients": ["egg", "vegetables", "cheese"]
+},
+{ "name": "Kumbuk Tteokbokki" ,
+   "ingredients": ["rice noodles", "tofu", "eggs", "tofu", "soy sauce", "sesame oil", "scallions", "garlic"]
+},
+{ "name": "Korean-Style Frittata" ,
+   "ingredients": ["mushrooms", "scallions", "garlic", "shiitake mushrooms", "chicken broth", "eggs", "cheese"]
+},
+{ "name": "Cheongdam-guk Egg Fried Rice" ,
+   "ingredients": ["eggs", "mushrooms", "spinach", "miso soup", "sesame oil"]
+},
+{ "name": "Vegetable Korean Cuisine Bowl" ,
+   "ingredients": ["cooked rice", "vegetables"]
+},
+{ "name": "KOREAN CUISINE KOREAN-STYLE VEGETABLE PANCAKES" ,
+   "ingredients": ["all-purpose flour", "starch", "zucchini", "carrots", "green onions"]
+},
+{ "name": "Korean Cuisine Fried Chicken Lunchbox" ,
+   "ingredients": ["fried chicken", "vegetables", "bread"]
+},
+{ "name": "Vegan Beet Salad with Korean Chili-Tofu Dressing" ,
+   "ingredients": ["beets", "tofu", "vegetables", "soybean oil", "sweet potatoes"]
+},
+{ "name": "Baeolops bipinnatus Stew (BBB)" ,
+   "ingredients": ["potatoes", "tofu", "rice"]
+},
+{ "name": "Sesame Roasted Chicken" ,
+   "ingredients": ["sesame seeds", "garlic", "soy sauce"]
+},
+{ "name": "Shrimp Fried Rice Korean Style" ,
+   "ingredients": ["mayo", "kimchi", "mushrooms"]
+},
+{ "name": "Sukkaki Namguk (Korean Cuisine) Vegetarian" ,
+   "ingredients": ["vegetables", "tofu", "tempeh"]
+},
+{ "name": "Korean Cuisine Moo Goo Gai Pan" ,
+   "ingredients": ["mushrooms", "vegetables", "soy sauce"]
+},
+{ "name": "Mary Go's Veggie Wrap - Classic Kitchen Style" ,
+   "ingredients": ["vegetables", "grilled chicken", "quinoa"]
+},
+{ "name": "Cuisin's Vege Tofu Bowl" ,
+   "ingredients": ["tofu", "rice", "broccoli", "carrots", "kale", "avocado", "peanut-based sauce"]
+},
+{ "name": "Kangnam Bokki (Korean Eggplant Soup with Spicy Chili Sauce)" ,
+   "ingredients": ["kimchi", "cabbage", "eggplant", "carrots", "green onions", "chili sauce"]
+},
+{ "name": "Veggie Spinach Rice Bowl" ,
+   "ingredients": ["spinach", "brown rice", "tofu", "carrots", "mushrooms"]
+},
+{ "name": "Veggie Slaw with Korean Cuisine Inspiration" ,
+   "ingredients": ["carrots", "radishes", "snow peas", "broccoli", "bok choy", "red bell pepper"]
+},
+{ "name": "Kwon's Classic Vegetable Stew (Mae Nam Geum Sindang)" ,
+   "ingredients": ["kale", "carrots", "radishes", "eggplants"]
+},
+{ "name": "Sushi Knot Noodles" ,
+   "ingredients": ["konjac yam flour", "water", "firming agent"]
+},
+{ "name": "Spicy Korean Beef with Vegetables" ,
+   "ingredients": ["beef", "soy sauce", "gochujang", "sesame oil", "brown sugar", "garlic", "ginger", "carrots", "cabbage", "spinach", "green onions"]
+},
+{ "name": "Chef Special - Steamed Fish Cake with Spicy Mayo Sauce" ,
+   "ingredients": ["fish cakes", "spicy mayo sauce"]
+},
+{ "name": "Korean Cuisine for Lent" ,
+   "ingredients": ["napa cabbage", "radish", "cucumbers", "rice", "seaweed", "tofu"]
+},
+{ "name": "Spicy Korean Cuisine: Vegetable Fried Rice" ,
+   "ingredients": ["carrots", "bok choy", "snow peas", "scallions", "rice vinegar", "sesame oil", "soy sauce", "garlic", "ginger", "green onions"]
+},
+{ "name": "Baekgang Moojangguk" ,
+   "ingredients": ["beef", "noodle", "eggs", "mushrooms"]
+},
+{ "name": "Bibimbap" ,
+   "ingredients": ["carrots", "green beans", "mushrooms", "radish", "rice"]
+},
+{ "name": "Pork Bok Choy (Wonton Soup)" ,
+   "ingredients": ["pork", "bok choy", "wontons", "soy sauce"]
+},
+{ "name": "Vegetable and Spinach Omelette" ,
+   "ingredients": ["spinach", "mushrooms", "vegetables", "eggs", "cheese"]
+},
+{ "name": "Vegetarian Curry Breakfast" ,
+   "ingredients": ["spinach", "tofu", "cashew nuts", "lentils", "cumin", "coriander", "rice"]
+},
+{ "name": "Vegetable Biryani" ,
+   "ingredients": ["vegetables", "spices", "rice", "yogurt"]
+},
+{ "name": "Vegetable Breakfast" ,
+   "ingredients": ["vegetables", "herbs"]
+},
+{ "name": "Aloo Gobi Paneer" ,
+   "ingredients": ["potatoes", "spices", "cauliflower", "paneer"]
+},
+{ "name": "Baked Avocado Toast with Smoked Salmon and Sweet Potato Hash" ,
+   "ingredients": ["avocados", "salmon", "sweet potatoes"]
+},
+
+{ "name": "Aloo Gobi Layered Breakfast Bowl" ,
+   "ingredients": ["peanut butter", "potato", "cashew", "chickpea", "peanuts", "tahini sauce"]
+},
+{ "name": "Vegetable Omelette" ,
+   "ingredients": ["spinach", "green peas", "mushrooms", "onions", "eggs"]
+},
+{ "name": "Nigella Seed Pancakes" ,
+   "ingredients": ["ground nigella seeds", "almond flour"]
+},
+{ "name": "Butter Chicken Breakfast Bowl" ,
+   "ingredients": ["butter", "spices", "chicken", "quinoa"]
+},
+{ "name": "Chana Masala Veg Breakfast" ,
+   "ingredients": ["chickpeas", "spinach", "tomatoes", "onions", "cumin", "coriander", "turmeric"]
+},
+{ "name": "Vegan Breakfast Shakshuka" ,
+   "ingredients": ["eggs", "tomato", "onion sauce", "potatoes", "parsley", "paprika"]
+},
+{ "name": "Butter Mushroom Vegetable Curry" ,
+   "ingredients": ["mushrooms", "spinach", "carrots", "peas", "tomatoes"]
+},
+{ "name": "Vegetable Curry Luncheon" ,
+   "ingredients": ["spinach", "carrots", "peppers", "snap peas"]
+},
+{ "name": "Vegetable Curry with Paneer (Butter) Masala" ,
+   "ingredients": ["paneer (cottage cheese)", "cumin", "coriander", "turmeric", "avocado", "potatoes"]
+},
+{ "name": "Kashmiri Beef Curry" ,
+   "ingredients": ["beef", "onion", "tomato", "potatoes", "spices"]
+},
+{ "name": "Baked Cauliflower Fluff" ,
+   "ingredients": ["cauliflower", "roasted garlic", "herbs"]
+},
+{ "name": "Masala Kebab Curry" ,
+   "ingredients": ["chunks of grilled meat", "spices", "potatoes", "carrots", "cauliflower", "spinach"]
+},
+{ "name": "Chana Masala" ,
+   "ingredients": ["chickpea", "spices", "tomato", "spices"]
+},
+{ "name": "Butter Chicken Curry" ,
+   "ingredients": ["butter", "spices", "chicken", "vegetables", "cream"]
+},
+{ "name": "Vegetable Curry with Naan" ,
+   "ingredients": ["cauliflower", "potatoes", "carrots", "green beans", "onions", "garlic", "spices"]
+},
+{ "name": "Kadhai Gobi Kalakari" ,
+   "ingredients": ["cauliflower", "onions", "tomatoes", "ginger-garlic paste", "spices"]
+},
+{ "name": "Vegetable Biryani" ,
+   "ingredients": ["basmati rice", "vegetables", "onions", "ginger-garlic paste", "tomatoes", "yogurt", "spices"]
+},
+{ "name": "Vegetable Kebabs with Rice Pulav" ,
+   "ingredients": ["potatoes", "peas", "carrots", "spices", "rice"]
+},
+{ "name": "Lentil Dal Curry" ,
+   "ingredients": ["lentils", "tomatoes", "onions", "ginger", "garlic", "cumin", "coriander", "turmeric", "yogurt"]
+},
+{ "name": "Lentil Curry with Vegetables and Mint Leaves" ,
+   "ingredients": ["lentils", "coconut milk", "spices"]
+},
+{ "name": "Vegetable Gobi Manchurian Pulao" ,
+   "ingredients": ["potatoes", "onion", "tomato", "ginger-garlic paste", "coriander leaves", "green chilies", "red chili powder"]
+},
+{ "name": "Eggplant and Potato Casserole with Garlic Butter Sauce" ,
+   "ingredients": ["eggs", "potatoes", "garlic", "butter", "cheese"]
+}
+]
